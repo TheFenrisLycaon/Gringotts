@@ -1,0 +1,46 @@
+{
+    "Essential": {
+        "Food": {
+            "Groceries": 3500,
+            "Water": 3000
+        },
+        "Bills": {
+            "Rent": 7500,
+            "Electric": 2500,
+            "Internet": 750,
+            "Phone": 250,
+            "Card": 500,
+            "Gym": 1000
+        },
+        "Travel": {
+            "Transportation": 6000
+        }
+    },
+    "Wants": {
+        "Food": {
+            "Eating Out": 4000,
+            "Drinks": 4000
+        },
+        "Self": {
+            "Shopping": 2000,
+            "Haircut": 500,
+            "Laundry": 500,
+            "Cosmetics": 500
+        },
+        "Entertainment": {
+            "Movies": 1000,
+            "Concert": 1000,
+            "OTTs": 500
+        },
+        "Misc.": {
+            "Books": 500
+        }
+    },
+    "Savings": {
+        "Savings": {
+            "Debt": 5000,
+            "Home": 2500,
+            "Emergency": 2500
+        }
+    }
+}
