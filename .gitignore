@@ -2,4 +2,4 @@ data
 export
 .ipynb_checkpoints
 logs
-__pycache__/**
+**/__pycache__/**
